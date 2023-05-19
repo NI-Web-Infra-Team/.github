@@ -1,7 +1,5 @@
 # 👋 Welcome, 欢迎, 歡迎, Bienvenido, Bienvenue, ようこそ, Receber, Добро пожаловать, 환영합니다, მოგესალმებით, مرحباً, Ласкаво просимо, Bem-vindo, வணக்கம், स्वागत है
 
-![Navinfo](https://raw.githubusercontent.com/Navinfo-CN/.github/6893713d35f8061eab6c049113f188c8ce7ebf0d/navinfo.svg)
-
 [common-util](https://github.com/Navinfo-CN/common-util) is an open-source, generic tool library.
 
 ### 🙌 Navinfo's mission
