@@ -1,2 +1,2 @@
 # .github
-Navinfo
+NI Web Infra Team
