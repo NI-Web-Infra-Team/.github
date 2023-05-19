@@ -1,6 +1,6 @@
 # 👋 Welcome, 欢迎, 歡迎, Bienvenido, Bienvenue, ようこそ, Receber, Добро пожаловать, 환영합니다, მოგესალმებით, مرحباً, Ласкаво просимо, Bem-vindo, வணக்கம், स्वागत है
 
-[common-util](https://github.com/Navinfo-CN/common-util) is an open-source, generic tool library.
+[common-util](https://github.com/NI-Web-Infra-Team/common-util) is an open-source, generic tool library.
 
 ### 🙌 Team's mission
 
